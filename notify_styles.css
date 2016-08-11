@@ -1,0 +1,187 @@
+.header {
+	background-image: url(theme_bg.png);
+	height: 500px;
+	border-color: #ff0000;
+}
+body {
+	margin: 0;
+	font-family: "Arial";
+	min-width: 1210px;
+}
+
+body  p {
+	font-size: 12px;
+}
+	
+.header-content {
+	margin-left: 300px;
+	padding-top: 100px;
+	width: 300px;
+}
+
+.header-content > h1 {
+	color: #ffffff;
+}
+.header-content p {
+	color: #ffffff;
+}
+.header-content > div {
+	background-size: contain;
+}
+
+.apple-icon {
+	background-image: url(apple.png);
+}
+
+.android-icon {
+	background-image: url(android.png);
+}
+
+.windows-icon {
+	background-image: url(windows.png);
+}
+
+.header-content > h1 {
+	font-style: italic;
+}
+
+.header-content > div {
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+}
+
+.main-content {
+	margin-left: 200px;
+	margin-right: 200px;
+	width: auto;
+	
+}
+
+
+
+.features > .main-content > div > p {
+	color: #848484;
+}
+
+.features > .main-content > div {
+	width: 27%;
+	display: inline-block;
+	text-align: center;
+	padding-bottom:30px;
+	padding-top: 30px;
+}
+
+.features > .main-content > div:nth-child(2) {
+	padding-left: 90px;
+	padding-right: 90px;
+} 
+
+.subscribe-plus-media {
+	background-color: #e3e3e3;
+}
+
+.get-updates {
+	width: 50%;
+	float: left;
+}
+
+.subscribe-plus-media > .main-content:after {
+	display: block;
+	clear: both;
+	content: "";
+}
+
+h4 {
+	font-family: "Arial";
+	font-weight: normal;
+	
+}
+
+.get-updates > p {
+	color: #848484;
+	
+}
+
+.mailid {
+	float: left;
+	border-top-left-radius: 7px;
+	border-bottom-left-radius: 7px;
+	height: 31px;
+	border: 0;
+	padding-left: 10px;
+	width: 200px;
+}
+
+.notify-button {
+	background-color: #2ecc71;
+	border: 0;
+	border-top-right-radius: 7px;
+	border-bottom-right-radius: 7px;
+	padding: 10px 20px;
+	color: #ffffff;
+	width: 100px;
+}
+
+.subscribe-plus-media > .main-content {
+	padding: 30px 0;
+}
+
+.get-updates > h4 {
+	margin-top: 0;
+}
+
+video {
+	border-radius: 5px;
+	float: right;
+}
+
+
+.contact-us > .main-content {
+	text-align: center;
+}
+
+
+.contact-us  .main-content  p {
+	width: 60%;
+	margin: 0 auto;
+	color: #848484;
+}
+
+.contact-us .main-content {
+	padding: 30px 0;
+}
+
+.contact-us h4 {
+	font-weight: bold;
+}
+.jane-hunt {
+	font-size: 12px;
+}
+
+
+.icons {
+	padding-top: 20px;
+}
+
+.links-section {
+	background-color: #e3e3e3;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+
+
+.links-section a {
+	color: #848484;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.links-section li {
+	display: inline;
+	padding: 0 20px;
+}
+
+
+
